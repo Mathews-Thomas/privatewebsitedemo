@@ -1,0 +1,262 @@
+body{
+background-image: url(https://coolbackgrounds.io/images/backgrounds/white/white-triangle-369b8d2d.jpg);
+}
+html{
+    scroll-behavior: smooth;
+}
+.head1{
+    float:left;
+    width: 150px;
+    height: 50px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    float:right;
+    margin:15px;
+    margin-left :30px;
+    margin-right: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: "Rubik",sans-serif;
+    color:#000019;
+    font-weight: 600;
+    font-size: 16px;
+}
+li a{
+    border: none;
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 15px;
+    padding: 8px;
+}
+a:hover{
+    background: #ec5b53;
+    color: #fff;
+}   
+.btn{
+    border: none;
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 15px;
+    padding: 5px;
+}
+.btn :hover{
+    background: #ec5b53;
+    color: #fff;
+}
+.btn2{
+    text-decoration: none;
+    border: none;
+    background: #ec5b53;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 10px;
+    padding: 10px; 
+}
+.section1{
+    clear:both;
+    background-color:lightgray;
+    font-family: "Rubik",sans-serif;
+    padding: 100px;
+    background-image: url(https://coolbackgrounds.io/images/backgrounds/white/white-contour-c990a61f.svg);
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 20px;
+}
+.get{
+    color: #ec5b53;
+    margin-bottom: 30px;
+}
+.dev{
+    font-size: 70px;
+    font-weight: 700;
+    color: #002d5b;
+    margin-bottom: 29px;
+}
+.abt{
+    color: #002d5b;
+}
+#serv{
+    font-size: 60px;
+    font-weight: 900;
+    font-family: "Rufina",serif;
+    color: #000a2d;  
+    margin: 80px;
+    margin-top: 120px;
+}
+#skil{
+    display: inline;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    margin:50px;
+}
+/*--------------------------------------About Me page-----------------------------------------------------------------------------------------*/
+#about{
+    background-image: url(https://preview.colorlib.com/theme/personalportfolio/assets/img/hero/hero2.jpg.webp);
+ padding:100px;
+ border-radius: 20px;
+}
+#abt{
+    font-size: 70px;
+    font-weight: 900;
+    font-family: "Rufina",serif;
+    color: #002d5b;
+}
+#hom{
+    color: #ec5b53;
+    margin:10px;
+    font-family: "Rufina",serif;
+    font-size:20px;
+    text-decoration: none;
+    
+}
+#about2{
+    background-image: url(../images/mathews.png),url(https://coolbackgrounds.io/images/backgrounds/white/white-triangle-369b8d2d.jpg);
+    padding: 200px;
+    background-color: rgb(226, 223, 223);
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    background-size: 50% 110%;
+    background-position: left bottom;
+    opacity: 0.9;
+    border-radius: 20px;
+}
+#create{
+    font-size: 40px;
+    font-weight: 900;
+    font-family: "Rufina",serif;
+    color: #000a2d;
+    font-weight: 600;
+    margin-bottom: 40px;
+    padding-left: 55%;
+    margin-left: 50px;
+}
+#icreate{
+    color: #002d5b;
+    padding-left: 55%;
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 50px;
+}
+/*---------------------------------------------contact----------------------------------------------------------------*/
+.anch{
+    text-decoration: none;
+color: #ec5b53;    
+}
+#git{
+    font-size: 40px;
+    font-weight: 900;
+    font-family: "Rufina",serif;
+    color: #000a2d;  
+    margin: 60px;
+    margin-top:120px;
+}
+.cont1{
+    float: left;
+    margin: 50px;
+}
+.cont2{
+    float: left;
+    margin: 50px;
+    color: #000a2d;
+    font-family: "Rufina",serif;
+    font-size: 20px;
+}
+.testara{
+    text-decoration: none;
+    border-color: lightgray;
+    margin-bottom: 20px;
+}
+::placeholder{
+    color: darkgrey;
+    font-family: "Rufina",serif;
+    font-size: 15px;
+}
+.tst{
+    text-decoration: none;
+    border: 1px solid lightgray;
+    margin-bottom: 20px;
+    height: 30px;
+    width: 45%;
+    margin-right: 55px;
+}
+.eml{
+    text-decoration: none;
+    border: 1px solid lightgray;
+    margin-bottom: 20px;
+    height: 30px;
+    width: 45%;
+}
+.subjt{
+    text-decoration: none;
+    border: 1px solid lightgray;
+    margin-bottom: 20px;
+    height: 30px;
+    width: 99%;
+}
+.btnfm{
+    background: #fff;
+    color: #ec5b53;
+    padding: 18px 44px;
+    font-family: "Rufina",serif;
+    font-size: 14px;
+    font-weight: 400;
+    border: 1px solid #ec5b53;
+    text-align: center;
+}
+.btnfm:hover{
+    background-color: #ec5b53;
+    color: white;
+}
+.fa-solid{
+    margin:20px;    
+}
+.loc1{
+padding: 5px;
+margin-left: 60px;
+font-weight: bold;
+}
+/*--------------------------------------------------------footer----------------------------------------------------------------*/
+.footer{
+    background-color: #000a2d;
+    clear:both;
+    padding: 150px;
+    color: darkgrey;
+    font-family: "Rufina",serif;
+    border-radius: 20px;
+}
+.cent{
+ text-align: center;
+ font-size: 60px;
+}
+.cente{
+    text-align: center;
+    margin: 20px;
+    font-size: 20px;
+}
+.end1{
+    position: absolute;
+    left:0;
+    padding:10px;
+    margin: 100px;
+}
+.end2{
+    text-align: right;
+    position: absolute;
+    right: 0;
+    margin: 70px;
+}
+.fa{
+    padding: 10px;
+}
